@@ -1,12 +1,9 @@
 #include <stdio.h>
 
 /**
- *
- *  *main - print lowercase alpha a-z but remove 'q' and 'e'
- *
- *   *Return: Always 0 (Success)
- *
- *    */
+ *main - print lowercase alpha a-z but remove 'q' and 'e'
+ *Return: Always 0 (Success)
+*/
 
 int main(void)
 
