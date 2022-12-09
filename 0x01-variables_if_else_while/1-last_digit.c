@@ -5,12 +5,9 @@
 #include <stdio.h>
 
 /**
- *
- *  *main - Entry point
- *
- *   *Return: Always 0 (Success)
- *
- *    */
+ * main - assign random number to variable n
+ * Return: Always 0 (Success)
+*/
 
 int main(void)
 
