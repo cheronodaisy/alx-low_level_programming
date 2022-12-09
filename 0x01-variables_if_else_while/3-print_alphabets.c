@@ -1,14 +1,9 @@
 #include <stdio.h>
 
-/*
- *
- *  * main -  print lowercase and uppercase a-zA-Z using putchar
- *
- *   * Description: 'prints A-Z and a-z'
- *
- *    * Return: Always 0 (Success)
- *
- *     */
+/**
+ * main - print lowercase and uppercase a-zA-Z using putchar
+ * Return: Always 0 (Success)
+*/
 
 int main(void)
 
